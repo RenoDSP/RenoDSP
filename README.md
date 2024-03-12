@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<h3 align="center">FrameWorks I have worked with</h3>
+<h3 align="center">FrameWorks/ Libraries/ Platforms I have worked with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=electron,wordpress,bootstrap,tensorflow,sklearn,flask,postman" />
